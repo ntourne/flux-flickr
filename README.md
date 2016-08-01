@@ -1,5 +1,5 @@
 # react-reflux-flickr
-Just a simple React + Reflux app which display Flickr images.
+Just a simple React + Reflux app to display random Flickr images.
 
 ## Setup
 ```
